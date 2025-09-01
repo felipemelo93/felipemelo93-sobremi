@@ -49,7 +49,7 @@ Gestor de tareas con autenticación JWT, etiquetas y tablero Kanban.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-melo-b67057248/)  
 - 💻 [GitHub](https://github.com/felipemelo93)  
-- 📧 **felipemelo93@gmail.com**  
+- 📧 **felipemelo9318.fm@gmail.com**  
 
 ---
 
